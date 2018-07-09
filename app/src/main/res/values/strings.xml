@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KongWen</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login_btn">登陆</string>
+    <string name="clear_btn">清除</string>
+</resources>
